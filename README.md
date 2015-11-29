@@ -4,7 +4,7 @@
 ##Building the project
 
 1. Clone this repo `git clone https://github.com/Alexrs95/learning-golang`
-2. Add it to your GOPATH (Run `go help gopath` for more details)
+2. Configure your GOPATH (Run `go help gopath` for more details)
 3. Execute the examples. They are divied in folders depending on the topic. Each one has its corresponding test. You have the following options to execute the exercises:
 ⋅⋅* Run `go run exercise.go`.
 ⋅⋅* Run `go build exercise.go && ./exercise`.
@@ -26,7 +26,8 @@
 * [Go: a simple programming environment](https://vimeo.com/53221558)
 * [Get Started with Go](https://www.youtube.com/watch?v=2KmHtgtEZ1s)
 * [Learning X in Y minutes: Go](http://learnxinyminutes.com/docs/go/)
- 
+* [Go talks](https://talks.golang.org/)
+
 ##Errors
 
 I'm using this repository to learn Go, and to share the resources and exercise I do. This means that I'm not an expert in Go, so the exercises can contains errors. If you find and error, please, open an [issue](https://github.com/Alexrs95/learning-golang/issues), or event better, send me a [Pull Request](https://github.com/Alexrs95/learning-golang/pulls)!
